@@ -12,6 +12,10 @@
     "1.3.4": {
       "url": "https://github.com/nadave307/hotel-notifier-updates/releases/download/v1.3.4/staff_notifier-v1.3.4.exe",
       "sha256": "133f6ce598d18cbe3b9e7c413e6db81baace824b240fd85a7d00c78219132acb"
+    },
+    "1.3.5": {
+      "url": "https://github.com/nadave307/hotel-notifier-updates/releases/download/1.3.5/staff_notifier-v1.3.5.exe"
+      "sha256": "6f3cfb48436a75f2ee997df2e0857e929381c89ceec27d373de7452ed20f8802"
     }
   }
 }
